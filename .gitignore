@@ -1,1 +1,17 @@
+
+# Python cache
+__pycache__/
+# Compiled Python files
+*.pyc
+# Environment files
+.env
+.venv
+# VS Code settings
+.vscode/
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+# mypy type checker cache
+.mypy_cache/
+
  
